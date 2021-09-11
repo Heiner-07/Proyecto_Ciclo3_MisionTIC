@@ -82,8 +82,8 @@ body{
 }
 
 .section-3{
-    height: 500px;
-    background-color: coral;
+    height: 525px;
+    background-color: #F7A813;
 }
 
 .footer{
@@ -104,6 +104,16 @@ body{
     padding: 0.50em 0;
 }
 
+.section-text-2{
+    margin: 0;
+    color: #4d4242;
+    background: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 2.2em 0 0.8em 0;
+}
+
 .col-3{
     width: 33.08%;
     height: 435px;
@@ -116,11 +126,11 @@ body{
 
 .col-5{
     width: 19%;
-    height: 470px;
+    height: 410px;
     display: inline-block;
     margin: 5px 4px 0;
     text-align: center;
-    background-color: rgb(255, 177, 148);
+    background-color: #3D20AA;
 }
 
 .service-content{
@@ -139,6 +149,17 @@ body{
     font-size: 2em;
     margin-block-start: 0.67em;
     margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.h2{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
