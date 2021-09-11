@@ -19,14 +19,14 @@ body{
 }
 
 .container-menu{
-    height: 60px;
-    background-color: antiquewhite;
+    height: auto;
+    background-color: #F7A813;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     width: 100%;
-
 }
+
 .container-logo{
     width: 100%;
     height: inherit;
@@ -211,8 +211,8 @@ hr{
 
 .main-menu__link{
     text-decoration: none;
-    font-size: 1em;
-    color: #3e3e3e;
+    font-size: 1.2em;
+    color: white;
 }
 
 .main-menu__link:hover{
